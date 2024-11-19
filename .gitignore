@@ -1,0 +1,23 @@
+# Node modules
+/node_modules
+
+# Environment files
+/server/.env
+/clientss/.env
+
+# Miscellaneous files
+.DS_Store          # File sistem macOS
+Thumbs.db          # File sistem Windows
+*.log              # File log
+*.tmp              # File sementara
+
+# Build directories
+/dist
+/build
+
+# IDE specific files
+/.idea/            # JetBrains IDEs
+.vscode/           # Visual Studio Code settings
+
+# Operating system files
+*.swp              # Swap files from editors like Vim
